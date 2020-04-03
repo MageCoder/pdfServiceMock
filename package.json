@@ -1,0 +1,24 @@
+{
+  "name": "pdfservicemock",
+  "version": "0.1.0",
+  "description": "pdfservicemock",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "exit 1"
+  },
+  "dependencies": {
+    "@serverless-chrome/lambda": "^1.0.0-55",
+    "body-parser": "^1.19.0",
+    "chrome-remote-interface": "^0.28.1",
+    "express": "~4.16.1",
+    "fs": "0.0.1-security",
+    "pug": "^2.0.4",
+    "uuid": "^7.0.2"
+  },
+  "devDependencies": {
+    "chrome-launcher": "^0.13.0",
+    "nodemon": "^2.0.2"
+  }
+}
