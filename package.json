@@ -14,7 +14,7 @@
     "chrome-remote-interface": "^0.28.1",
     "express": "~4.16.1",
     "fs": "0.0.1-security",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "uuid": "^7.0.2"
   },
   "devDependencies": {
